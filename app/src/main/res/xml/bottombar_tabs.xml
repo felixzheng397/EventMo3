@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_prev"
+        icon="@drawable/ic_keyboard_arrow_left_black_24dp"
+        title="Prev" />
+    <tab
+        id="@+id/tab_cancel"
+        icon="@drawable/ic_cancel_black_24dp"
+
+        title="Cancel" />
+    <tab
+        id="@+id/tab_next"
+        icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+        title="Next" />
+</tabs>
